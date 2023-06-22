@@ -10,7 +10,13 @@ Esses foram os principais tópicos abordados no curso: <https://maaarina.github.
   <li>
     Aprofudamento no HTML e CSS
   </li>
-  <li>Flex box</li>
+  <li>
+    Flex box
+  </li>
+  <li>
+    Responsividade
+  </li>
+  
 </ul>
 Você pode acessar atravez do meu link no github pages: <https://maaarina.github.io/alura-plus/>
 
