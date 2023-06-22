@@ -2,7 +2,7 @@
 Projeto desenvolvido no curso 'Praticando HTML e CSS' na Alura
 
 ## O que aprendi:
-Esses foram os principais tópicos abordados no curso:
+Esses foram os principais tópicos abordados no curso: <https://maaarina.github.io/alura-plus/>
 <ul>
   <li>
     Posicionar elementos na tela
